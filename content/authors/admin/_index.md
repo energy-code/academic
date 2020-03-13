@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Adam Stein
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,38 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate / Design Engineer / Consultant 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Carnegie Mellon University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research includes energy systems, policy soultions, and deep uncertainty.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Energy System Modeling
+- Advanced Nuclear Risk and Safety
+- Deep Uncertainty and Decision Making
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD Candidate in Engineering and Public Policy
+    institution: Carnegie Mellon University
+    year: 2020
+  - course: MS in Engineering and Public Policy
+    institution: Carnegie Mellon University
+    year: 2019
+  - course: MBA 
+    institution: Indiana University of Pennsylvania
+    year: 2016    
+  - course: BS in Mechanical Engineering
+    institution: University of Pittsburgh
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Certificate in Nuclear Engineering
+    institution: University of Pittsburgh
+    year: 2009  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +53,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/_A_Stein_
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=XRAXnRgAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/energy-code
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Adam Stein is a PhD Candidate in Engineering and Public Polity at Carnegie Mellon University. His current research interests include energy system design, emergency planning and decision making near nuclear power plants, and developing risk and consequence models for advanced reactors. He brings more than a decade of R&D experience to help address interdicipliary problems. 
