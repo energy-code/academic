@@ -23,7 +23,7 @@ bio: My research includes energy systems, policy soultions, and deep uncertainty
 interests:
 - Energy System Modeling
 - Advanced Nuclear Risk and Safety
-- Deep Uncertainty and Decision Making
+- Decision Making Under Uncertainty 
 
 education:
   courses:
