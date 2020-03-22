@@ -14,23 +14,23 @@ tags:
 featured: true
 ---
 
-This guide is intended to be a working document for students, faculty, staff, and even alumni to **use and contribute to**. The hope is that this guide can be a source of suggestions and insight to reduce the learning curve of how to work off-campus. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. Being a stay at home parent really is a full time job.  Be supportive and flexible with each other.
+This guide is intended for academics (students, faculty, staff, and administrators). The hope is that this guide can be a source of suggestions and insight to reduce the learning curve of how to work off-campus. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. Being a stay at home parent really is a full time job.  Be supportive and flexible with each other.
 
-{{< figure src="WorkingWkids_dist.png" title="Productivity with kids at home" >}}
+{{< figure src="WorkingWkids_dist.png" title="Productivity with kids at home" lightbox="true" >}}
 
-## Flexibility, Resilience, and a Deep Breath
+# Flexibility, Resilience, and a Deep Breath
 
 A parent's primary concern during the day is and should be taking care of their family.  Being a stay at home parent really is a full time job.
 
 Try to remember when your family was just starting. Chances are you thought you were busy before you had your first child. After they were born you quickly found there simply wasn’t time or energy to do everything you could do before (unless you had a lot of help!). You had to find household chores that could be pushed back or projects that could be eliminated. Of course the current situation is different, but your response can be similar. Don’t expect to work the way you always have, you won’t. Instead look for what can be trimmed away or put on hold to [make your process leaner](https://www.lean.org/whatslean/).
 
-If you are doing academic work, chances are you need to do [deep](https://doist.com/blog/deep-work/)[work](https://doist.com/blog/deep-work/). It can be very difficult to do deep, thoughtful, work while taking care of a child; being interrupted between every other sentence you write, in the middle of deriving an equation, or starting a creative process. You might get the work done, but it may not be your best.
+If you are doing academic work, chances are you need to do [deep work](https://doist.com/blog/deep-work/). It can be very difficult to do deep, thoughtful, work while taking care of a child; being interrupted between every other sentence you write, in the middle of deriving an equation, or starting a creative process. You might get the work done, but it may not be your best.
 
 The tricks that work for each student to get some work done depend largely on the make up of their household. The age, temperament, and number of children, along with the availability and ability of a partner to help with their care, are the key factors to consider. A lot of planning and a little luck is needed so you can have the long single stretch of time that you need.
 
 Try a range of strategies and note what works for your family and what doesn&#39;t work. Revise your plan for the next day and try again. Be resilient, not discouraged.
 
-## Getting set up…
+# Getting set up…
 
 Start by reading the general [how-to work remotely guide](https://docs.google.com/document/d/1JtrSj9zRYzq5hUktbTDC_umLPJdipmpPjrXrdSkN7cs/edit#heading=h.a177y9gcd6tl). This guide will focus on additional suggestions and tools for partners and families.
 
@@ -44,7 +44,7 @@ Make a physical barrier to keep your children out. The barrier needed and the po
 
 - If your only viable workspace is in the normal play area, consider moving the play area to another space. For example, if your only work surface is the coffee table in the living room try moving the kids play space to their bedroom for now.
 - Set up a temporary workspace in a multipurpose area like the  kitchen. Your work will have to be interrupted regularly, but if it is time to cook dinner you probably won&#39;t be working anyway
-- Make a workspace and block it off with &#39;stuff&#39; as a buffer zone. This might be your only option if you need to stay within eyesight of your children.
+- Make a workspace and block it off with 'stuff' as a buffer zone. This might be your only option if you need to stay within eyesight of your children.
 - If you have an infant, baby-wearing and a standing desk is a good option
 
 ## Distractions
