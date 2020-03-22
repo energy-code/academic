@@ -1,8 +1,8 @@
 ---
-title: "Working Remotely with a Partner or Family"
+title: Working Remotely with a Partner or Family
 description: "Strategies and tips to get some work done at home with a family"
-date: 2020-03-22T02:13:50Z
-author: "Adam Stein"
+date: 2020-03-22
+author: Adam Stein
 categories:
   - "example"
   - "hello"
@@ -10,7 +10,7 @@ tags:
   - "example"
   - "hugo"
   - "blog"
- featured: true
+featured: true
 ---
 
 Hello from Hugo! If you're reading this in your browser, good job! The file `content/post/hello-hugo.md` has been
@@ -41,26 +41,6 @@ Front Matter for Fun
 --------------------
 
 This is the meta data for this post. It is located at the top of the `content/post/hello-hugo.md` markdown file.
-
-```
----
-title: "Hello Hugo!"
-description: "Saying 'Hello' from Hugo"
-date: "2014-09-01"
-categories:
-  - "example"
-  - "hello"
-tags:
-  - "example"
-  - "hugo"
-  - "blog"
----
-```
-
-This section, called 'Front Matter', is what tells Hugo about the content in this file: the `title` of the item, the
-`description`, and the `date` it was posted. In our example, we've added two custom bits of data too. The `categories` and
-`tags` sections are used in this example for indexing/grouping content. You will learn more about what that means by
-examining the code in this example and through reading the Hugo [documentation](http://gohugo.io/overview/introduction).
 
 
 {{< gdocs src="https://docs.google.com/document/d/e/2PACX-1vRFmfG3I6XkjpKAGbvHOMrWAI1MnDadBpyw3lHxo1mmXCl5UPrx19WEvMYqrRzaQfd_Uj4iBsJs7FGe/pub?embedded=true" >}}
