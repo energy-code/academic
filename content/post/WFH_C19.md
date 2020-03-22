@@ -14,7 +14,7 @@ featured: true
 
 #Introduction
 
-This guide is intended to be a working document for students, faculty, staff, and even alumni to **use and contribute to**. The hope is that this guide can be a source of suggestions and insight to reduce the learning curve of how to work off-campus. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. Be supportive and flexible with each other and yourself.
+This guide is intended for academics (students, faculty, staff, and administrators). The hope is that this guide can be a source of suggestions and insight to reduce the learning curve of how to work off-campus. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. Be supportive and flexible with each other and yourself.
 
 # Getting ready...
 
