@@ -32,7 +32,7 @@ Try a range of strategies and note what works for your family and what doesn&#39
 
 # Getting set up…
 
-Start by reading the general [how-to work remotely guide](https://docs.google.com/document/d/1JtrSj9zRYzq5hUktbTDC_umLPJdipmpPjrXrdSkN7cs/edit#heading=h.a177y9gcd6tl). This guide will focus on additional suggestions and tools for partners and families.
+Start by reading the general [how-to work remotely guide](https://adamstein.netlify.com/post/wfh_c19/). This guide will focus on additional suggestions and tools for partners and families.
 
 ## Workspace
 
