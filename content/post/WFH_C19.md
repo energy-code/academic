@@ -14,13 +14,13 @@ featured: true
 
 #Introduction
 
-This guide is intended for academics (students, faculty, staff, and administrators). The hope is that this guide can be a source of suggestions and insight to reduce the learning curve of how to work off-campus. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. Be supportive and flexible with each other and yourself.
+This guide was initially intended for those in academia (students, faculty, staff, and administrators), but can be useful for the millions that have suddenly switch to remote work. The hope is that this guide can be a source of suggestions and insight to reduce the learning curve of how to work off-campus. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. Be supportive and flexible with each other and yourself.
 
 # Getting ready...
 
 ##Workspace
 
-A defined workspace makes all the difference. Some of us have desks at home. Most people haven&#39;t needed a real home office and will have to repurpose another space as a work area. Sure, you can work from the couch with your laptop, but you won&#39;t be as productive. If you must sit with a laptop on your lap consider getting a [padded lap desk](https://www.amazon.com/gp/product/B00HUEZ7W0/). The obvious candidate is the dinner table, but many creative options exist as well such as a nightstand or ironing board. Just search Twitter for &quot;WFH&quot; for inspiration on creative workspaces spurred by necessity.
+A defined workspace makes all the difference. Some of us have desks at home. Most people haven't needed a real home office and will have to repurpose another space as a work area. Sure, you can work from the couch with your laptop, but you won't be as productive. If you must sit with a laptop on your lap consider getting a [padded lap desk](https://www.amazon.com/gp/product/B00HUEZ7W0/). The obvious candidate is the dinner table, but many creative options exist as well such as a nightstand or ironing board. Just search Twitter for &quot;WFH&quot; for inspiration on creative workspaces spurred by necessity.
 
 ##Lighting
 
@@ -44,7 +44,7 @@ You might not be able to maintain your normal schedule due to workspace limits. 
 
 ##Dress the part
 
-Pretend like you are going into the office. Seriously. It is well documented that you will be more productive if you aren&#39;t dressed to relax. That doesn&#39;t mean you need to wear your best outfit.
+Pretend like you are going into the office. Seriously. It is well documented that you will be more productive if you aren't dressed to relax. That doesn't mean you need to wear your best outfit.
 
 #Video conferencing
 
@@ -56,13 +56,13 @@ In stressful times every pet is an emotional support animal. Feel free to share 
 
 # Eating
 
-Plan your breaks for meal time.  You will probably find yourself snacking more while working at home. It&#39;s just too convenient and a great way to procrastinate. Prep semi-healthy snacks ahead of time to make the healthy option the path of least resistance.
+Plan your breaks for meal time.  You will probably find yourself snacking more while working at home. It's just too convenient and a great way to procrastinate. Prep semi-healthy snacks ahead of time to make the healthy option the path of least resistance.
 
 # Distractions
 
 It can be difficult to focus when working remotely. People tend to do what is comfortable and routine. But, the normal routine at home is chores, relaxation, and for those reading this guide - children. Distractions and opportunities to procrastinate are everywhere you look. Maintaining focus is key to making progress on your work.
 
-Obviously you want to reduce distractions as much as possible. That will not always work. Some studies indicate it takes around 25 minutes to refocus after a distraction. Here are a few tips you can use to help you pick up where you left off more quickly. Some will be applicable to your workflow and others won&#39;t.
+Obviously you want to reduce distractions as much as possible. That will not always work. Some studies indicate it takes around 25 minutes to refocus after a distraction. Here are a few tips you can use to help you pick up where you left off more quickly. Some will be applicable to your workflow and others won't.
 
 Avoid distractions in the first place
 
@@ -70,11 +70,11 @@ Obviously it is best if distractions never happen in the first place. Make it ea
 
 ##Keep a log book
 
-The point of a log for this purpose is to keep running notes of thoughts, ideas, or next steps. The log can be on paper or digital. It doesn&#39;t have to be pretty and should not become a research paper on its own. Use it more like a middle memory (between short and long term memory) to help get you back on track. As a bonus it lets you look back and see how much progress you have made even when it doesn&#39;t feel like you have made any progress.
+The point of a log for this purpose is to keep running notes of thoughts, ideas, or next steps. The log can be on paper or digital. It doesn't have to be pretty and should not become a research paper on its own. Use it more like a middle memory (between short and long term memory) to help get you back on track. As a bonus it lets you look back and see how much progress you have made even when it doesn't feel like you have made any progress.
 
 ##Comment your work
 
-This suggestion should already be second nature to those of us that write code. Commenting is a great practice for very short term recall as well. Put comments on your draft as soon as they come to mind. Let&#39;s say you are writing a paper and something interrupts you suddenly: your cat jumps on the keyboard, your roommate walks in and asks for advice, anything. What were you about to type? What paper are you even working on now? As soon as you think someone is about to take your focus away write a brief comment on what you were just about to do, or when you get back to work you might not remember at all.
+This suggestion should already be second nature to those of us that write code. Commenting is a great practice for very short term recall as well. Put comments on your draft as soon as they come to mind. Let's say you are writing a paper and something interrupts you suddenly: your cat jumps on the keyboard, your roommate walks in and asks for advice, anything. What were you about to type? What paper are you even working on now? As soon as you think someone is about to take your focus away write a brief comment on what you were just about to do, or when you get back to work you might not remember at all.
 
 #Co-working
 
@@ -84,7 +84,7 @@ Be accommodating and flexible. There is a wide range of work habits and what wor
 
 If you have roommates and do not have separate areas there are a few strategies you can try.
 
-- Consider working on staggered schedules. This strategy also helps if there isn&#39;t enough workspace available.
+- Consider working on staggered schedules. This strategy also helps if there isn't enough workspace available.
 - Headphones are very helpful to block out some distractions. Instrumental music is usually best, but you can also try white/brown/pink noise if music is distracting to you. Check the Tools section for a few suggestions.
 - Set up ground rules on when you can interrupt someone while working.
 - If you love the isolation the office cubicle provides, you can make a cardboard cubicle with a [poster tri-fold](https://www.target.com/p/elmers-trifold-corrugate-project-display-board-28x40/-/A-15058100).
@@ -97,19 +97,22 @@ For some people it is difficult to work without other people around, or just iso
 
 - Keep the TV on in the background on a non-distracting channel. (cooking shows, history, etc. NOT your favorite show)
 - Try virtual co-working as a way to stay connected like you are in the office. Use Zoom or Skype to set up a video call. Most people leave the call open in the background and check in occasionally.
-- You can schedule virtual co-working in many ways. The easiest way is to[create a department level shared calendar](https://support.google.com/a/answer/1626902?hl=en) and add your availability. Place the zoom meeting information in the calendar details. If you want to co-work just join the meeting on the calendar!
+- You can schedule virtual co-working in many ways. The easiest way is to[create a shared calendar](https://support.google.com/a/answer/1626902?hl=en) and add your availability. Place the zoom meeting information in the calendar details. If you want to co-work just join the meeting on the calendar!
 - If you want to find a convenient time for several specific people, [when2meet](https://www.when2meet.com/) is often useful.
-- If you can&#39;t schedule a co-working session when you want to, or prefer a random co-worker, try [Focusmate](https://www.focusmate.com/).
+- If you can't schedule a co-working session when you want to, or prefer a random co-worker, try [Focusmate](https://www.focusmate.com/).
+
+##With a family:
+When your coworkers are children it is a very different situation. If that describes you, read the *[How-to Work Remotely with a Partner or Family](https://adamstein.netlify.com//post/wfh_family/)*.
 
 #Helping each other
 
 Suddenly going from 30 people in the office / classroom to just a few (or none) can be as difficult to adapt to as changing the workspace. The biggest complaint of employees that are shifted to working remotely has consistently been _loneliness._ Connect to others in a  Slack workspace or elsewhere.
 
-In times of stress like this it can be hard for some people to reach out for help even when they need it. Don&#39;t limit yourself to just your existing friends, and don&#39;t worry - others want (or need) to talk too. Someone is always awake; we are spread around the world right now and many just work late. If talking to another student isn&#39;t enough please contact [CaPS](https://www.cmu.edu/counseling/)
+In times of stress like this it can be hard for some people to reach out for help even when they need it. Don't limit yourself to just your existing friends, and don't worry - others want (or need) to talk too. Someone is always awake; we are spread around the world and many just work late. 
 
 # Tools and Resources
 
-This section provides a curated list of tools for working remotely. A more extensive and updated list of resources can be found here: [Working Remotely - Resource Guide](https://docs.google.com/document/d/1uIflBK8_H1LsWvhUe9t_cl_N17FusN9kVxYH_we_wG8/edit?usp=sharing)
+This section provides a curated list of tools for working remotely. A more extensive and updated list of resources can be found here: [Working Remotely - Resource Guide](https://docs.google.com/document/d/1-75jR8WHM7_jJBulkSJ_tqca2BvKKfdHWALTEkGOYoE/edit?usp=sharing)
 
 ##Wellness
 
