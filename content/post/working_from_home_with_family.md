@@ -1,3 +1,11 @@
+title: Working Remotely with a Partner or Family
+
+summary: Strategies and tips to get some work done at home
+
+authors: Adam Stein
+
+featured: true
+
 #Hello Post World
 
 
