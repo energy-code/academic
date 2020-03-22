@@ -16,7 +16,7 @@ featured: true
 
 This guide is intended to be a working document for students, faculty, staff, and even alumni to **use and contribute to**. The hope is that this guide can be a source of suggestions and insight to reduce the learning curve of how to work off-campus. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. Being a stay at home parent really is a full time job.  Be supportive and flexible with each other.
 
-{{< figure src="WorkingWkids_dist.png" lightbox="true" >}}
+{{< figure src="WorkingWkids_dist.png" title="Productivity with kids at home" >}}
 
 ## Flexibility, Resilience, and a Deep Breath
 
@@ -95,7 +95,7 @@ The solution often is to shift work time, sometimes drastically, to times that f
 
 Depends a lot on your home situation and age of children.
 
-{{< figure src="WorkingWkids_age.png" lightbox="true" >}}
+{{< figure src="WorkingWkids_age.png"  title="Productivity by kids age" lightbox="true" >}}
 
 ### Online learning
 
