@@ -14,7 +14,7 @@ featured: true
 
 #Introduction
 
-This guide was initially intended for those in academia (students, faculty, staff, and administrators), but can be useful for the millions that have suddenly switch to remote work. The hope is that this guide can be a source of suggestions and insight to reduce the learning curve of how to work off-campus. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. Be supportive and flexible with each other and yourself.
+This guide was initially intended for those in academia (students, faculty, staff, and administrators), but can be useful for the millions that have suddenly switch to remote work. The hope is that it will be a source of suggestions and insight to _flatten the learning curve_ of how to work remotely. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. Be supportive and flexible with each other and yourself.
 
 # Getting ready...
 
