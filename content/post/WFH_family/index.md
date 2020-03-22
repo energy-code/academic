@@ -189,5 +189,3 @@ Some are free and others have free trials right now
 - [Illustrative](https://www.illustrativemathematics.org/)[Mathematics](https://www.illustrativemathematics.org/)
 - [Zearn](https://about.zearn.org/distance-learning?utm_campaign=distance-learning&amp;utm_medium=native&amp;utm_source=homepage)- math K-5
 
-
-_This document was originally written by Adam Stein. Before starting to work on a PhD in Engineering and Public Policy at Carnegie Mellon University, Adam gained almost a decade of remote working experience across several industries, three years of which included children. Since the initial draft many others have generously contributed their thoughts and input to this guide._
