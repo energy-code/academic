@@ -14,7 +14,7 @@ tags:
 featured: true
 ---
 
-This guide is intended for academics (students, faculty, staff, and administrators). The hope is that this guide can be a source of suggestions and insight to reduce the learning curve of how to work off-campus. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. Being a stay at home parent really is a full time job.  Be supportive and flexible with each other.
+This guide was initially intended for those in academia (students, faculty, staff, and administrators), but can be useful for the millions that have suddenly switch to remote work. The hope is that it will be a source of suggestions and insight to flatten the learning curve of how to work remotely. Everyone has unique circumstances that need to be addressed resulting in no perfect solution.  Be supportive and flexible with each other.
 
 {{< figure src="WorkingWkids_dist.png" lightbox="true" >}}
 
@@ -22,13 +22,13 @@ This guide is intended for academics (students, faculty, staff, and administrato
 
 A parent's primary concern during the day is and should be taking care of their family.  Being a stay at home parent really is a full time job.
 
-Try to remember when your family was just starting. Chances are you thought you were busy before you had your first child. After they were born you quickly found there simply wasn’t time or energy to do everything you could do before (unless you had a lot of help!). You had to find household chores that could be pushed back or projects that could be eliminated. Of course the current situation is different, but your response can be similar. Don’t expect to work the way you always have, you won’t. Instead look for what can be trimmed away or put on hold to [make your process leaner](https://www.lean.org/whatslean/).
+Try to remember when your family was just starting. Chances are you thought you were busy before you had your first child. After they were born you quickly found there simply wasn’t time or energy to do everything you could do before (unless you had a lot of help!). You had to find household chores that could be pushed back or projects that could be eliminated. Of course the current situation is different, but your response can be similar. Don’t expect to work the way you always have, you won’t. Instead look for what can be trimmed away or put on hold to [make your process leaner](https://www.lean.org/whatslean/). 
 
 If you are doing academic work, chances are you need to do [deep work](https://doist.com/blog/deep-work/). It can be very difficult to do deep, thoughtful, work while taking care of a child; being interrupted between every other sentence you write, in the middle of deriving an equation, or starting a creative process. You might get the work done, but it may not be your best.
 
 The tricks that work for each student to get some work done depend largely on the make up of their household. The age, temperament, and number of children, along with the availability and ability of a partner to help with their care, are the key factors to consider. A lot of planning and a little luck is needed so you can have the long single stretch of time that you need.
 
-Try a range of strategies and note what works for your family and what doesn&#39;t work. Revise your plan for the next day and try again. Be resilient, not discouraged.
+Try a range of strategies and note what works for your family and what doesn't work. Revise your plan for the next day and try again. Be resilient, not discouraged.
 
 # Getting set up…
 
@@ -75,31 +75,31 @@ Instructors should record online classes. If they are not being recorded, ask fo
 
 Mute is your friend. Children don&#39;t schedule melt-downs and don&#39;t always wait for snack time on your carefully planned schedule. Most are not prepared to work remotely full time and home life will continue in the background even if you are on a video call. If you are really concerned you can add a custom background to zoom. [Don't expect video conferences](https://www.youtube.com/watch?v=6Y4rkBctRfg)[to go perfectly](https://twitter.com/_A_Stein_/status/1237989645645905920?s=20).
 
-In stressful times every pet is an emotional support animal. You are just sharing them with others. If you or child/pet/partner ends up on the video call one day, don&#39;t worry about it. In fact it can help reduce stress and cheer up everyone else that is on the call. Remember,  if you have a partner or family you are less isolated than most people. You have the opposite problem; no quiet time.
+In stressful times every pet is an emotional support animal. You are just sharing them with others. If you or child/pet/partner ends up on the video call one day, don't worry about it. In fact it can help reduce stress and cheer up everyone else that is on the call. Remember,  if you have a partner or family you are less isolated than most people. You have the opposite problem; no quiet time.
 
 ## Schedules
 
-Make a schedule. Decide on start &amp; stop times. Be flexible in schedule. Sometimes the schedule gets thrown out - that&#39;s ok. Revise the schedule every day based on what has worked and what has not worked.
+Make a schedule. Decide on start & stop times. Be flexible in scheduling. Sometimes the schedule will get thrown out - that is ok. Revise the schedule every day based on what has worked and what has not worked. 
 
 Do your best to connect to online classes in real-time. It is an opportunity to connect to other people, ask questions, and make sure you stay on top of your work. Sometimes your child might make that virtually impossible. That is OK and everyone will survive. Don&#39;t let it become the norm or you will quickly feel like it is impossible to be a stay at home parent and work remotely.
 
 Take advantage of naps. They are prime working time without kids.
 
-Avoid the temptation to do housework when you get kid-free time. Most household chores _can_ be accomplished while supervising the kids. It is much more difficult to focus enough to get work accomplished.
+Avoid the temptation to do housework when you get kid-free time. Most household chores _can_ be accomplished while supervising the kids. It is much more difficult to focus enough to get work accomplished with kids.
 
 Make sure to keep time on the schedule for you and your partner away from work. Once you start working at home it can be difficult to feel like you ever stop working.
 
-The solution often is to shift work time, sometimes drastically, to times that fit their family even if it doesn't match their courses or research. For example, I do most of my work after everyone is in bed. This is not when I do my best work, but it is when I get to do work.
+The solution is often to shift work time, sometimes drastically, to times that fit family needs even if it doesn't match their courses or research. For example, I do most of my work after everyone is in bed. This is not when I do my best work, but it is when I get to do work.
 
 ## Strategies
 
-Depends a lot on your home situation and age of children.
+Strategies depend a lot on your home situation and age of children.
 
 {{< figure src="WorkingWkids_age.png" lightbox="true" >}}
 
 ### Online learning
 
-Many parents are suddenly taking on the role of teacher. If your child is of school age and can work independently there are many many resources available. Don&#39;t expect to be a perfect parent, primary school teacher, and researcher all at the same time while also dealing with the stress of the current situation. With the exception of the youngest learners more screen time won&#39;t hurt them right now; think quality not quantity. Elementary school age children and younger need to [learn away from the screen](https://hechingerreport.org/why-your-toddler-cant-learn-from-a-screen/). That doesn't mean you can't use screen time to distract and entertain them from time to time.
+Many parents are suddenly taking on the role of teacher. If your child is of school age and can work independently there are many many resources available. Don't expect to be a perfect parent, primary school teacher, and researcher all at the same time while also dealing with the stress of the current situation. With the exception of the youngest learners more screen time won't hurt them right now; think quality not quantity. Elementary school age children and younger need to [learn away from the screen](https://hechingerreport.org/why-your-toddler-cant-learn-from-a-screen/). That doesn't mean you can't use screen time to distract and entertain them from time to time.
 
 ### The hand-off
 
@@ -107,7 +107,7 @@ If possible, trade off with your partner to avoid child-care burnout. One partne
 
 ### Asymmetrical scheduling
 
-Partners adjust their schedule so one is up before the children for alone time work and the other gets up later and stays up late. This strategy is more drastic in that it doesn't keep the entire family in sync, but it also allows for completely quiet free time for each partner to work and decompress. (This guide was written almost entirely after the rest of the family went to sleep.)
+Partners adjust their schedule so one is up before the children for alone time work and the other gets up later and stays up late. This strategy is more drastic in that it doesn't keep the entire family in sync, but it also allows for completely quiet free time for each partner to work and decompress. _(This guide was written almost entirely after the rest of the family went to sleep.)_
 
 ### Part of the team
 
