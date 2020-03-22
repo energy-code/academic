@@ -55,7 +55,7 @@ Obviously you want to reduce distractions as much as possible. That will not alw
 
 ### Avoid distractions in the first place
 
-Obviously it is best if distractions never happen in the first place. Make it easier for your family to know when you are busy and cannot be interrupted. Depending on the age of your child, you can try simple visual cues to let them know now is not the time to disturb you. Some examples include different colored binders set up like table tents to indicate if you are available or not, a goofy &#39;working&#39; hat that you wear when you shouldn&#39;t be disturbed, or any other cue your child can understand. Don&#39;t push it too far however. You are not going to get 8 hours of uninterrupted work and if they don&#39;t see an upside to obeying your visual cue (i.e. you give them attention on regular breaks) they will just ignore it.
+Obviously it is best if distractions never happen in the first place. Make it easier for your family to know when you are busy and cannot be interrupted. Depending on the age of your child, you can try simple visual cues to let them know now is not the time to disturb you. Some examples include different colored binders set up like table tents to indicate if you are available or not, a goofy working hat that you wear when you shouldn't be disturbed, or any other cue your child can understand. Don't push it too far however. You are not going to get 8 hours of uninterrupted work and if they don&#39;t see an upside to obeying your visual cue (i.e. you give them attention on regular breaks) they will just ignore it.
 
 ### Keep a log book
 
@@ -63,7 +63,7 @@ The point of a log for this purpose is to keep running notes of thoughts, ideas,
 
 ### Comment your work
 
-This suggestion should already be second nature to those of us that write code. Commenting is a great practice for very short term recall as well. Put comments on your draft as soon as they come to mind. Let&#39;s say you are writing a paper and your toddler runs over and insists on a snack, right now. What were you about to type? What paper are you even working on now? As soon as you think someone is about to take your focus away write a brief comment on what you were just about to do, or when you get back to work you might not remember at all. The draft of this guide had dozens of comments due to interruptions.
+This suggestion should already be second nature to those of us that write code. Commenting is a great practice for very short term recall as well. Put comments on your draft as soon as they come to mind. Let's say you are writing a paper and your toddler runs over and insists on a snack, right now. What were you about to type? What paper are you even working on now? As soon as you think someone is about to take your focus away write a brief comment on what you were just about to do, or when you get back to work you might not remember at all. The draft of this guide had dozens of comments due to interruptions.
 
 ### Partners
 
@@ -89,7 +89,7 @@ Avoid the temptation to do housework when you get kid-free time. Most household 
 
 Make sure to keep time on the schedule for you and your partner away from work. Once you start working at home it can be difficult to feel like you ever stop working.
 
-The solution often is to shift work time, sometimes drastically, to times that fit their family even if it doesn&#39;t match their courses or research. For example, I do most of my work after everyone is in bed. This is not when I do my best work, but it is when I get to do work.
+The solution often is to shift work time, sometimes drastically, to times that fit their family even if it doesn't match their courses or research. For example, I do most of my work after everyone is in bed. This is not when I do my best work, but it is when I get to do work.
 
 ## Strategies
 
@@ -115,7 +115,7 @@ Most of you have seen a child in the classroom at some point. Maybe that child w
 
 ## Community
 
-Let's be blunt; kids are a lot of work. Connecting with other families to share tips and workspaces, decompress, or just to see other people is highly encouraged. You are not in this alone. There are many other parent communities on every social platform: join a couple. Talk to your neighbors. Make new friends. If you start to feel trapped in the house with them your mental wellbeing can suffer. If you are a CMU student, connect to other parents to set up video calls.
+Let's be blunt; kids are a lot of work. Connecting with other families to share tips and workspaces, decompress, or just to see other people is highly encouraged. You are not in this alone. There are many other parent communities on every social platform: join a couple. Talk to your neighbors. Make new friends. If you start to feel trapped in the house with them your mental wellbeing can suffer. 
 
 ## Kids Wellbeing
 
@@ -174,7 +174,7 @@ Some age groups can entertain and learn on their own with a little supervision. 
 
 Some are free and others have free trials right now
 
-- [CMU](https://academy.cs.cmu.edu/splash)[Computer](https://academy.cs.cmu.edu/splash)[Science](https://academy.cs.cmu.edu/splash)[Academy](https://academy.cs.cmu.edu/splash)
+- [Carnegie Mellon Computer Science Academy](https://academy.cs.cmu.edu/splash)
 - [Live](https://www.poshenloh.com/live/)[Math](https://www.poshenloh.com/live/)[Videos](https://www.poshenloh.com/live/) - with CMU professor Po-Shen Loh
 - [NYC](https://www.schools.nyc.gov/learning-at-home/activities-for-students)[schools](https://www.schools.nyc.gov/learning-at-home/activities-for-students)free learn at home activities by age group, including special needs students
 
@@ -189,3 +189,4 @@ Some are free and others have free trials right now
 - [Illustrative](https://www.illustrativemathematics.org/)[Mathematics](https://www.illustrativemathematics.org/)
 - [Zearn](https://about.zearn.org/distance-learning?utm_campaign=distance-learning&amp;utm_medium=native&amp;utm_source=homepage)- math K-5
 
+_Before starting to work on a PhD in Engineering and Public Policy at Carnegie Mellon University, Adam gained almost a decade of remote working experience across several industries, three years of which included children._ 
