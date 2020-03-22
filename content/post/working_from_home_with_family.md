@@ -1,10 +1,9 @@
-+++
 title = "Working Remotely with a Partner or Family"
 summary: "Strategies and tips to get some work done at home with a family"
 description = "Strategies and tips to get some work done at home with a family"
 date = 2020-03-22T02:13:50Z
 author = "Adam Stein"
-+++
+
 featured: true
 
 ##Hello Post World
