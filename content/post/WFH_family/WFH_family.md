@@ -160,7 +160,6 @@ Some age groups can entertain and learn on their own with a little supervision. 
 - Pittsburgh Zoo: pick the view on the [penguin](https://www.pittsburghzoo.org/penguin-webcam/)[cam](https://www.pittsburghzoo.org/penguin-webcam/)
 - [Met](https://www.metopera.org/)[Opera](https://www.metopera.org/)[Streaming](https://www.metopera.org/)[-](https://www.metopera.org/)[free](https://www.metopera.org/)[until](https://www.metopera.org/)[March](https://www.metopera.org/)[31](https://www.metopera.org/)
 - [Pittsburgh](https://www.nextpittsburgh.com/events/things-to-do-in-pittsburgh-this-month-when-all-the-events-are-canceled/)[art](https://www.nextpittsburgh.com/events/things-to-do-in-pittsburgh-this-month-when-all-the-events-are-canceled/)[and](https://www.nextpittsburgh.com/events/things-to-do-in-pittsburgh-this-month-when-all-the-events-are-canceled/)[museum](https://www.nextpittsburgh.com/events/things-to-do-in-pittsburgh-this-month-when-all-the-events-are-canceled/)[webcasts](https://www.nextpittsburgh.com/events/things-to-do-in-pittsburgh-this-month-when-all-the-events-are-canceled/)
-
 - [Skype](https://www.skypeascientist.com/for-families.html)[a](https://www.skypeascientist.com/for-families.html)[scientist](https://www.skypeascientist.com/for-families.html)
 - [Science](https://twitter.com/JacquelynGill/status/1239185698827239427)[podcast](https://twitter.com/JacquelynGill/status/1239185698827239427)[twitter](https://twitter.com/JacquelynGill/status/1239185698827239427)[thread](https://twitter.com/JacquelynGill/status/1239185698827239427)
 - [USA](https://usasciencefestival.org/xstem-videos/)[Science](https://usasciencefestival.org/xstem-videos/)[&amp;](https://usasciencefestival.org/xstem-videos/)[Engineering](https://usasciencefestival.org/xstem-videos/)[Festival](https://usasciencefestival.org/xstem-videos/)[videos](https://usasciencefestival.org/xstem-videos/)
@@ -179,8 +178,8 @@ Some are free and others have free trials right now
 - [Live](https://www.poshenloh.com/live/)[Math](https://www.poshenloh.com/live/)[Videos](https://www.poshenloh.com/live/) - with CMU professor Po-Shen Loh
 - [NYC](https://www.schools.nyc.gov/learning-at-home/activities-for-students)[schools](https://www.schools.nyc.gov/learning-at-home/activities-for-students)free learn at home activities by age group, including special needs students
 
-- [Free](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/)[subscriptions](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/)[from](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/)[education](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/)[companies](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/)
-- [Khan](https://www.khanacademy.org/)[Academy](https://www.khanacademy.org/)
+- [Free subscriptions from education companies](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/)
+- [Khan Academy](https://www.khanacademy.org/)
 - [Scholastic](https://classroommagazines.scholastic.com/support/learnathome.html)[Learn](https://classroommagazines.scholastic.com/support/learnathome.html)[at](https://classroommagazines.scholastic.com/support/learnathome.html)[Home](https://classroommagazines.scholastic.com/support/learnathome.html)
 
 - [11](https://blog.reallygoodstuff.com/11-free-reading-websites-for-kids/)[reading](https://blog.reallygoodstuff.com/11-free-reading-websites-for-kids/)[websites](https://blog.reallygoodstuff.com/11-free-reading-websites-for-kids/)
