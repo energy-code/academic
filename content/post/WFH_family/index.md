@@ -1,6 +1,6 @@
 ---
 title: Working Remotely with a Partner or Family
-description: "Strategies and tips to get some work done at home with a family"
+description: Strategies and tips to get some work done at home with a family
 date: 2020-03-22
 author: Adam Stein
 categories:
