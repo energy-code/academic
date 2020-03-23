@@ -12,25 +12,25 @@ tags:
 featured: true
 ---
 
-#Introduction
+# Introduction
 
 This guide was initially intended for those in academia (students, faculty, staff, and administrators), but can be useful for the millions that have suddenly switch to remote work. The hope is that it will be a source of suggestions and insight to _flatten the learning curve_ of how to work remotely. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. Be supportive and flexible with each other and yourself.
 
 # Getting ready...
 
-##Workspace
+## Workspace
 
 A defined workspace makes all the difference. Some of us have desks at home. Most people haven't needed a real home office and will have to repurpose another space as a work area. Sure, you can work from the couch with your laptop, but you won't be as productive. If you must sit with a laptop on your lap consider getting a [padded lap desk](https://www.amazon.com/gp/product/B00HUEZ7W0/). The obvious candidate is the dinner table, but many creative options exist as well such as a nightstand or ironing board. Just search Twitter for &quot;WFH&quot; for inspiration on creative workspaces spurred by necessity.
 
-##Lighting
+## Lighting
 
 Working from the light of a computer screen is fine for short periods. You need more light to work all day. The dim lights you have in your living room to watch TV is probably not enough. Let as much light in from the windows as possible. If that results in less than ideal results in glare on a video conference, it is still probably worth it. Change a few select light bulbs to the color of daylight (5600K) if possible.
 
-##Eye strain
+## Eye strain
 
 Switching to online courses from in-person classes will significantly increase the amount of time you spend staring at a computer screen. Take regular breaks using the **&quot;20-20-20&quot; rule** : every 20 minutes, shift your eyes to look at an object at least 20 feet away, for at least 20 seconds. You can find more [tips to reduce eye strain from the AAO](https://www.aao.org/eye-health/tips-prevention/computer-usage).
 
-#Keep a schedule
+# Keep a schedule
 
 It can be difficult to focus when working remotely. People tend to do what is comfortable and routine. But, the normal routine at home is chores and relaxation. Distractions and opportunities to procrastinate are everywhere you look. Maintaining focus is key to making progress on your work.
 
@@ -42,11 +42,11 @@ Add physical fitness into your routine as part of your regular schedule. While m
 
 You might not be able to maintain your normal schedule due to workspace limits. See the co-working section for more tips.
 
-##Dress the part
+# Dress the part
 
 Pretend like you are going into the office. Seriously. It is well documented that you will be more productive if you aren't dressed to relax. That doesn't mean you need to wear your best outfit.
 
-#Video conferencing
+# Video conferencing
 
 Mute is your friend.
 
@@ -68,19 +68,19 @@ Avoid distractions in the first place
 
 Obviously it is best if distractions never happen in the first place. Make it easier for others in your home to know when you are busy and cannot be interrupted: try simple visual cues to let them know now is not the time to disturb you. Some examples include different colored binders set up like table tents to indicate if you are available or not.
 
-##Keep a log book
+## Keep a log book
 
 The point of a log for this purpose is to keep running notes of thoughts, ideas, or next steps. The log can be on paper or digital. It doesn't have to be pretty and should not become a research paper on its own. Use it more like a middle memory (between short and long term memory) to help get you back on track. As a bonus it lets you look back and see how much progress you have made even when it doesn't feel like you have made any progress.
 
-##Comment your work
+## Comment your work
 
 This suggestion should already be second nature to those of us that write code. Commenting is a great practice for very short term recall as well. Put comments on your draft as soon as they come to mind. Let's say you are writing a paper and something interrupts you suddenly: your cat jumps on the keyboard, your roommate walks in and asks for advice, anything. What were you about to type? What paper are you even working on now? As soon as you think someone is about to take your focus away write a brief comment on what you were just about to do, or when you get back to work you might not remember at all.
 
-#Co-working
+# Co-working
 
 Be accommodating and flexible. There is a wide range of work habits and what works well for you might be incompatible with your co-workers.
 
-##For more isolation:
+## For more isolation and concentration:
 
 If you have roommates and do not have separate areas there are a few strategies you can try.
 
@@ -91,7 +91,7 @@ If you have roommates and do not have separate areas there are a few strategies 
 
 See the Tools section for useful apps.
 
-##For less isolation:
+## For less isolation:
 
 For some people it is difficult to work without other people around, or just isolated in general. In the upcoming weeks it is likely that even the most introverted will feel isolated at times. If that sounds like you, here are a few tips to try.
 
@@ -101,10 +101,10 @@ For some people it is difficult to work without other people around, or just iso
 - If you want to find a convenient time for several specific people, [when2meet](https://www.when2meet.com/) is often useful.
 - If you can't schedule a co-working session when you want to, or prefer a random co-worker, try [Focusmate](https://www.focusmate.com/).
 
-##With a family:
+## With a family:
 When your coworkers are children it is a very different situation. If that describes you, read the *[How-to Work Remotely with a Partner or Family](https://adamstein.netlify.com//post/wfh_family/)*.
 
-#Helping each other
+# Helping each other
 
 Suddenly going from 30 people in the office / classroom to just a few (or none) can be as difficult to adapt to as changing the workspace. The biggest complaint of employees that are shifted to working remotely has consistently been _loneliness._ Connect to others in a  Slack workspace or elsewhere.
 
@@ -114,7 +114,7 @@ In times of stress like this it can be hard for some people to reach out for hel
 
 This section provides a curated list of tools for working remotely. A more extensive and updated list of resources can be found here: [Working Remotely - Resource Guide](https://docs.google.com/document/d/1-75jR8WHM7_jJBulkSJ_tqca2BvKKfdHWALTEkGOYoE/edit?usp=sharing)
 
-##Wellness
+## Wellness
 
 Remember - the major problem for most remote workers is loneliness. Stay connected with others!
 
@@ -122,32 +122,32 @@ Remember - the major problem for most remote workers is loneliness. Stay connect
 - [Headspace](https://work.headspace.com/cmu/join#CMU%20Headspace%20Landing%20Page) - Free meditation app for CMU students, faculty &amp; staff
 - [Ten Percent](https://www.tenpercent.com/coronavirussanityguide) -  (app available to us in the longer term [by request](https://docs.google.com/forms/d/e/1FAIpQLSd5SwLKoCog1oL1AJkWL-HH5P7p4KC21JDJJnELmnEyxg2-Jg/viewform))
 
-##Fitness
+## Fitness
 
 - [Free online fitness classes](https://thevfitstudio.com/vfitstrong/) - by CMU alumni
 - [FitnessBlender](https://www.fitnessblender.com/videos)  - More free online fitness videos
 - [Yoga Hive](https://www.yogahivepgh.com/#/hive-at-home/) - Pittsburgh yoga studio offering free videos
 - [DownDog](https://www.downdogapp.com/) - Free yoga with a .edu address
 
-##Communication
+## Communication
 
 - E-mail
 - [Slack](https://slack.com/)
 - Skype
 - Zoom - ([CMU guide here](https://www.cmu.edu/computing/services/comm-collab/web-conferencing/zoom/how-to/launch-zoom.html))
 
-##Focus
+## Focus
 
 - [Focusmate](https://www.focusmate.com/) for virtual co-working
 - [Forest app](https://www.forestapp.cc/) - reduce phone distractions
 - [Cold Turkey](https://getcoldturkey.com/) - block any or every distraction on your computer
 - [Freedom app](https://freedom.to/) - block a specified list of websites across all your devices during set hours
 
-##Collecting thoughts
+## Collecting thoughts
 
 These tools may be helpful for keeping projects on track if you don&#39;t have a whiteboard in your remote workspace.
 
-###Project management
+### Project management
 
 - [Asana](https://asana.com/) - Basic is free
 - [Basecamp](https://basecamp.com/) - Personal is free
@@ -155,18 +155,18 @@ These tools may be helpful for keeping projects on track if you don&#39;t have a
 - [Evernote](https://evernote.com/)
 - [Trello](https://trello.com/en)
 
-###Task Management
+### Task Management
 
 - [Todoist](https://todoist.com/)
 - [do](https://www.any.do/)
 - [Microsoft To Do](https://todo.microsoft.com/tasks/)
 
-###Mindmapping
+### Mindmapping
 
 - [https://whimsical.com/](https://whimsical.com/)
 - [https://www.draw.io/](https://www.draw.io/)
 
-###Whiteboard
+### Whiteboard
 
 If you need a whiteboard-like space for yourself or collaborate with a group
 
@@ -174,7 +174,7 @@ If you need a whiteboard-like space for yourself or collaborate with a group
 - [AWW](https://awwapp.com/)
 -
 
-##Sharing Documents
+## Sharing Documents
 
 Emailing word documents between collaborators doesn&#39;t provide version control or real-time editing. Here are some
 
@@ -183,31 +183,31 @@ Emailing word documents between collaborators doesn&#39;t provide version contro
 - [Overleaf](https://www.overleaf.com/)
 - [Authorea](https://www.authorea.com/)
 
-##Scanning Documents
+## Scanning Documents
 
 - [CamScanner](https://play.google.com/store/apps/details?id=com.intsig.camscanner&amp;hl=en_US) - Android
 - MS [OfficeLens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&amp;hl=en_US) - Android
 - [Notes](https://support.apple.com/en-us/HT210336) - iPhone
 
-##Music
+## Music
 
 There are too many music options to list ([Spotify](https://www.spotify.com/us/), [Pandora](https://www.pandora.com/), etc). These options are not the most common and/or fit a specific need.
 
-###Study/Focus Music
+### Study/Focus Music
 
 - [Music for Programming](http://www.musicforprogramming.net/)
 - [Code Radio](https://coderadio.freecodecamp.org/)
 - [Chilled Cow YouTube Channel](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow?app=desktop) (which offers [Lofi Hip Hop Radio](https://www.youtube.com/watch?v=5qap5aO4i9A&amp;feature=youtu.be))
 - [Morning Coffee Jazz (YouTube)](https://www.youtube.com/watch?v=LK24FQkBgpM&amp;feature=youtu.be)
 
-###White/Pink/Brown Noise
+### White/Pink/Brown Noise
 
 VERY useful for blocking out external noise without being distracting
 
 - [net](https://mynoise.net/NoiseMachines/whiteNoiseGenerator.php) (try brown or pink noise instead of white noise)
 
 
-Other remote work articles
+## Other remote work articles
 
 There are many resources online related to working from home or the road. Most do not match the current situation or the nuances of academic work. However, multiple perspectives are always useful. If you find a useful article, add it!
 
