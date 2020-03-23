@@ -64,7 +64,7 @@ It can be difficult to focus when working remotely. People tend to do what is co
 
 Obviously you want to reduce distractions as much as possible. That will not always work. Some studies indicate it takes around 25 minutes to refocus after a distraction. Here are a few tips you can use to help you pick up where you left off more quickly. Some will be applicable to your workflow and others won't.
 
-Avoid distractions in the first place
+## Avoid distractions in the first place
 
 Obviously it is best if distractions never happen in the first place. Make it easier for others in your home to know when you are busy and cannot be interrupted: try simple visual cues to let them know now is not the time to disturb you. Some examples include different colored binders set up like table tents to indicate if you are available or not.
 
@@ -158,7 +158,7 @@ These tools may be helpful for keeping projects on track if you don&#39;t have a
 ### Task Management
 
 - [Todoist](https://todoist.com/)
-- [do](https://www.any.do/)
+- [Any do](https://www.any.do/)
 - [Microsoft To Do](https://todo.microsoft.com/tasks/)
 
 ### Mindmapping
