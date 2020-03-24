@@ -136,8 +136,9 @@ Remember - the major problem for most remote workers is loneliness. Stay connect
 
 - E-mail
 - [Slack](https://slack.com/)
-- Skype
-- Zoom - ([CMU guide here](https://www.cmu.edu/computing/services/comm-collab/web-conferencing/zoom/how-to/launch-zoom.html))
+- [Skype](https://www.skype.com/)
+- [Zoom](https://zoom.us/)
+- [Google Hangouts](https://hangouts.google.com/)
 
 ## Focus
 
@@ -175,21 +176,21 @@ If you need a whiteboard-like space for yourself or collaborate with a group
 
 - [WhiteboardFox](https://whiteboardfox.com/)
 - [AWW](https://awwapp.com/)
--
+- [Jamboard](http://jamboard.google.com)
 
 ## Sharing Documents
 
 Emailing word documents between collaborators doesn&#39;t provide version control or real-time editing. Here are some
 
 - [Word online through Box](https://support.box.com/hc/en-us/articles/360044196433-Box-for-Office-Integrations)
-- Google Docs
+- [Google Docs](https://docs.google.com/)
 - [Overleaf](https://www.overleaf.com/)
 - [Authorea](https://www.authorea.com/)
 
 ## Scanning Documents
 
 - [CamScanner](https://play.google.com/store/apps/details?id=com.intsig.camscanner&amp;hl=en_US) - Android
-- MS [OfficeLens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&amp;hl=en_US) - Android
+- [Microsoft OfficeLens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&amp;hl=en_US) - Android
 - [Notes](https://support.apple.com/en-us/HT210336) - iPhone
 
 ## Music
@@ -224,7 +225,7 @@ VERY useful for blocking out external noise without being distracting
 
 ## Other remote work articles
 
-There are many resources online related to working from home or the road. Most do not match the current situation or the nuances of academic work. However, multiple perspectives are always useful. If you find a useful article, add it!
+There are many resources online related to working from home or the road. Most do not match the current situation or the nuances of academic work. However, multiple perspectives are always useful. 
 
 - [NPR](https://www.npr.org/2020/03/15/815549926/8-tips-to-make-working-from-home-work-for-you)
 - [The Verge](https://www.theverge.com/2020/3/11/21171349/remote-work-how-to-home-coronavirus-quarantine-productivity-tips)
