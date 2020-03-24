@@ -20,7 +20,7 @@ This guide was initially intended for those in academia (students, faculty, staf
 
 ## Workspace
 
-A defined workspace makes all the difference. Some of us have desks at home. Most people haven't needed a real home office and will have to repurpose another space as a work area. Sure, you can work from the couch with your laptop, but you won't be as productive. If you must sit with a laptop on your lap consider getting a [padded lap desk](https://www.amazon.com/gp/product/B00HUEZ7W0/). The obvious candidate is the dinner table, but many creative options exist as well such as a nightstand or ironing board. JIf you don’t have a separate room you can define a workspace by boxing it in with masking tape on the floor. If you need more inspiration on creative workspaces spurred by necessity just search Twitter for “WFH”.
+A defined workspace makes all the difference. Some of us have desks at home. Most people haven't needed a real home office and will have to repurpose another space as a work area. Sure, you can work from the couch with your laptop, but you won't be as productive. The obvious candidate is the dinner table, but many creative options exist as well such as a nightstand or ironing board. If you don’t have a separate room you can define a workspace by boxing it in with masking tape on the floor. If you must sit with a laptop on your lap consider getting a [padded lap desk](https://www.amazon.com/gp/product/B00HUEZ7W0/). For more inspiration on creative workspaces spurred by necessity just search Twitter.
 
 ## Ergonomics
 Ergonomics and layout are important. When possible, make your workspace as ergonomic as possible to avoid creating aches and pains you don’t already have. You can use this ergonomics tool to guide your new setup. 
