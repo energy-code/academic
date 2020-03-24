@@ -53,7 +53,9 @@ This suggestion should already be second nature to those of us that write code. 
 
 # Keep a schedule
 
-Try to keep the same general schedule you had before changing to working remotely. Theoretically this means you have more time in the day because you don't have to commute. The lack of commute is one of the best parts of working remotely.
+Try to keep the same general schedule you had before changing to working remotely. Theoretically you have more time in the day because you don’t have to commute. The lack of commute is one of the best parts of working remotely and might be best used for the extra organization of mindfulness needed in the current situation. 
+
+If your scheduled work (courses, video calls, meetings) allows it you can adjust your schedule to when you do your best work. Take a moment for self reflection. Are you a morning person? A night owl? Do you need a break in the afternoon?
 
 Don't let everything blend together. Don't try to wash dishes while on Zoom for a course while making lunch. Breaks should be a part of your schedule. If you are doing academic work, chances are you need to do [deep work](https://doist.com/blog/deep-work/). Try a workflow method, such as those in the [workflow management](#workflow_management) section, to maintain focus and then define breaks.
 
