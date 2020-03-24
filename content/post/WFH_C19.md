@@ -53,7 +53,7 @@ Pretend like you are going into the office. Seriously. It is well documented tha
 
 Mute is your friend.
 
-Most people are not prepared to work remotely full time and home life will continue in the background even if you are on a video call. If you are really concerned you can add a custom background to zoom.Check out the [Working Remotely - Technology Guide](https://docs.google.com/document/d/1U2faJpgtK2OWajKkotLPsVVEmbQk3rCWA8RKBtb1Q5w/edit#) for technical tips.
+Most people are not prepared to work remotely full time and home life will continue in the background even if you are on a video call. If you are really concerned you can add a custom background to Zoom or some other apps.
 
 In stressful times every pet is an emotional support animal. Feel free to share yours with everyone, or encourage those that apologize for their pet being on camera. Be supportive if a parent needs to have their child with them during a video call or you hear them in the background.
 
