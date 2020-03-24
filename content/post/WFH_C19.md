@@ -33,11 +33,27 @@ Working from the light of a computer screen is fine for short periods. You need 
 
 Switching to online courses from in-person classes will significantly increase the amount of time you spend staring at a computer screen. Take regular breaks using the **&quot;20-20-20&quot; rule** : every 20 minutes, shift your eyes to look at an object at least 20 feet away, for at least 20 seconds. You can find more [tips to reduce eye strain from the AAO](https://www.aao.org/eye-health/tips-prevention/computer-usage).
 
-# Keep a schedule
+# Distractions
 
 It can be difficult to focus when working remotely. People tend to do what is comfortable and routine. But, the normal routine at home is chores and relaxation. Distractions and opportunities to [procrastinate](https://www.youtube.com/watch?v=arj7oStGLkU) are everywhere you look. Maintaining focus is key to making progress on your work.
 
-Try to keep the same general schedule you had before changing to working remotely. Theoretically this means you have more time in the day because you don&#39;t have to commute. The lack of commute is one of the best parts of working remotely.
+Obviously you want to reduce distractions as much as possible. That will not always work. Some studies indicate it takes around 25 minutes to refocus after a distraction. Here are a few tips you can use to help you pick up where you left off more quickly. Some will be applicable to your workflow and others won't.
+
+## Avoid distractions in the first place
+
+Obviously it is best if distractions never happen in the first place. Make it easier for others in your home to know when you are busy and cannot be interrupted: try simple visual cues to let them know now is not the time to disturb you. Some examples include different colored binders set up like table tents to indicate if you are available or not.
+
+## Keep a log book
+
+The point of a log for this purpose is to keep running notes of thoughts, ideas, or next steps. The log can be on paper or digital. It doesn't have to be pretty and should not become a research paper on its own. Use it more like a middle memory (between short and long term memory) to help get you back on track. As a bonus it lets you look back and see how much progress you have made even when it doesn't feel like you have made any progress.
+
+## Comment your work
+
+This suggestion should already be second nature to those of us that write code. Commenting is a great practice for very short term recall as well. Put comments on your draft as soon as they come to mind. Let's say you are writing a paper and something interrupts you suddenly: your cat jumps on the keyboard, your roommate walks in and asks for advice, anything. What were you about to type? What paper are you even working on now? As soon as you think someone is about to take your focus away write a brief comment on what you were just about to do, or when you get back to work you might not remember at all.
+
+# Keep a schedule
+
+Try to keep the same general schedule you had before changing to working remotely. Theoretically this means you have more time in the day because you don't have to commute. The lack of commute is one of the best parts of working remotely.
 
 Don't let everything blend together. Don't try to wash dishes while on Zoom for a course while making lunch. Breaks should be a part of your schedule. If you are doing academic work, chances are you need to do [deep work](https://doist.com/blog/deep-work/). Try a workflow method, such as those in the [workflow management](#workflow_management) section, to maintain focus and then define breaks.
 
@@ -60,24 +76,6 @@ In stressful times every pet is an emotional support animal. Feel free to share 
 # Eating
 
 Plan your breaks for meal time.  You will probably find yourself snacking more while working at home. It's just too convenient and a great way to procrastinate. Prep semi-healthy snacks ahead of time to make the healthy option the path of least resistance.
-
-# Distractions
-
-It can be difficult to focus when working remotely. People tend to do what is comfortable and routine. But, the normal routine at home is chores, relaxation, and for those reading this guide - children. Distractions and opportunities to [procrastinate](https://www.youtube.com/watch?v=arj7oStGLkU) are everywhere you look. Maintaining focus is key to making progress on your work.
-
-Obviously you want to reduce distractions as much as possible. That will not always work. Some studies indicate it takes around 25 minutes to refocus after a distraction. Here are a few tips you can use to help you pick up where you left off more quickly. Some will be applicable to your workflow and others won't.
-
-## Avoid distractions in the first place
-
-Obviously it is best if distractions never happen in the first place. Make it easier for others in your home to know when you are busy and cannot be interrupted: try simple visual cues to let them know now is not the time to disturb you. Some examples include different colored binders set up like table tents to indicate if you are available or not.
-
-## Keep a log book
-
-The point of a log for this purpose is to keep running notes of thoughts, ideas, or next steps. The log can be on paper or digital. It doesn't have to be pretty and should not become a research paper on its own. Use it more like a middle memory (between short and long term memory) to help get you back on track. As a bonus it lets you look back and see how much progress you have made even when it doesn't feel like you have made any progress.
-
-## Comment your work
-
-This suggestion should already be second nature to those of us that write code. Commenting is a great practice for very short term recall as well. Put comments on your draft as soon as they come to mind. Let's say you are writing a paper and something interrupts you suddenly: your cat jumps on the keyboard, your roommate walks in and asks for advice, anything. What were you about to type? What paper are you even working on now? As soon as you think someone is about to take your focus away write a brief comment on what you were just about to do, or when you get back to work you might not remember at all.
 
 # Co-working
 
