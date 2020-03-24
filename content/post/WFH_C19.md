@@ -20,7 +20,10 @@ This guide was initially intended for those in academia (students, faculty, staf
 
 ## Workspace
 
-A defined workspace makes all the difference. Some of us have desks at home. Most people haven't needed a real home office and will have to repurpose another space as a work area. Sure, you can work from the couch with your laptop, but you won't be as productive. If you must sit with a laptop on your lap consider getting a [padded lap desk](https://www.amazon.com/gp/product/B00HUEZ7W0/). The obvious candidate is the dinner table, but many creative options exist as well such as a nightstand or ironing board. Just search Twitter for &quot;WFH&quot; for inspiration on creative workspaces spurred by necessity.
+A defined workspace makes all the difference. Some of us have desks at home. Most people haven't needed a real home office and will have to repurpose another space as a work area. Sure, you can work from the couch with your laptop, but you won't be as productive. If you must sit with a laptop on your lap consider getting a [padded lap desk](https://www.amazon.com/gp/product/B00HUEZ7W0/). The obvious candidate is the dinner table, but many creative options exist as well such as a nightstand or ironing board. JIf you don’t have a separate room you can define a workspace by boxing it in with masking tape on the floor. If you need more inspiration on creative workspaces spurred by necessity just search Twitter for “WFH”.
+
+## Ergonomics
+Ergonomics and layout are important. When possible, make your workspace as ergonomic as possible to avoid creating aches and pains you don’t already have. You can use this ergonomics tool to guide your new setup. 
 
 ## Lighting
 
@@ -32,11 +35,11 @@ Switching to online courses from in-person classes will significantly increase t
 
 # Keep a schedule
 
-It can be difficult to focus when working remotely. People tend to do what is comfortable and routine. But, the normal routine at home is chores and relaxation. Distractions and opportunities to procrastinate are everywhere you look. Maintaining focus is key to making progress on your work.
+It can be difficult to focus when working remotely. People tend to do what is comfortable and routine. But, the normal routine at home is chores and relaxation. Distractions and opportunities to [procrastinate](https://www.youtube.com/watch?v=arj7oStGLkU) are everywhere you look. Maintaining focus is key to making progress on your work.
 
 Try to keep the same general schedule you had before changing to working remotely. Theoretically this means you have more time in the day because you don&#39;t have to commute. The lack of commute is one of the best parts of working remotely.
 
-Don't let everything blend together. Don't try to wash dishes while on Zoom for a course while making lunch. Breaks should be a part of your schedule. If you are doing academic work, chances are you need to do [deep work](https://doist.com/blog/deep-work/). Try a [task scheduling method](https://zapier.com/blog/daily-schedules-for-productivity/), such as Time Blocking or the Pomodoro Technique, to maintain focus and then define breaks.
+Don't let everything blend together. Don't try to wash dishes while on Zoom for a course while making lunch. Breaks should be a part of your schedule. If you are doing academic work, chances are you need to do [deep work](https://doist.com/blog/deep-work/). Try a workflow method, such as those in the [workflow management](#workflow_management) section, to maintain focus and then define breaks.
 
 Add physical fitness into your routine as part of your regular schedule. While many people prefer to work out in the morning or after work in the evening, it can also be a much needed respite during the day.
 
@@ -60,7 +63,7 @@ Plan your breaks for meal time.  You will probably find yourself snacking more w
 
 # Distractions
 
-It can be difficult to focus when working remotely. People tend to do what is comfortable and routine. But, the normal routine at home is chores, relaxation, and for those reading this guide - children. Distractions and opportunities to procrastinate are everywhere you look. Maintaining focus is key to making progress on your work.
+It can be difficult to focus when working remotely. People tend to do what is comfortable and routine. But, the normal routine at home is chores, relaxation, and for those reading this guide - children. Distractions and opportunities to [procrastinate](https://www.youtube.com/watch?v=arj7oStGLkU) are everywhere you look. Maintaining focus is key to making progress on your work.
 
 Obviously you want to reduce distractions as much as possible. That will not always work. Some studies indicate it takes around 25 minutes to refocus after a distraction. Here are a few tips you can use to help you pick up where you left off more quickly. Some will be applicable to your workflow and others won't.
 
@@ -199,12 +202,24 @@ There are too many music options to list ([Spotify](https://www.spotify.com/us/)
 - [Code Radio](https://coderadio.freecodecamp.org/)
 - [Chilled Cow YouTube Channel](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow?app=desktop) (which offers [Lofi Hip Hop Radio](https://www.youtube.com/watch?v=5qap5aO4i9A&amp;feature=youtu.be))
 - [Morning Coffee Jazz (YouTube)](https://www.youtube.com/watch?v=LK24FQkBgpM&amp;feature=youtu.be)
+- Film Scores
+- Classical
+
 
 ### White/Pink/Brown Noise
 
 VERY useful for blocking out external noise without being distracting
 
-- [net](https://mynoise.net/NoiseMachines/whiteNoiseGenerator.php) (try brown or pink noise instead of white noise)
+- [MyNoise.net](https://mynoise.net/NoiseMachines/whiteNoiseGenerator.php) (try brown or pink noise instead of white noise)
+- [Coffitivity](https://coffitivity.com/) - background noise to blur out distractions
+
+## Workflow management
+- [Article on a few methods](https://zapier.com/blog/daily-schedules-for-productivity/)
+- [GetThingsDone](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955)
+- [Pomodoro](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730) 
+- [Personal Kanban](https://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640)
+- [Deep Work](https://doist.com/blog/deep-work/)
+- [Eisenhower Matrix](https://www.eisenhower.me/eisenhower-matrix/)
 
 
 ## Other remote work articles
