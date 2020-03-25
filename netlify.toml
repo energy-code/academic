@@ -27,7 +27,7 @@
 
 [[redirects]]
   from = "/"
-  to = "https://www.adamstein.info/:splat"
+  to = "https://www.adamstein.info"
   status = 301
   force = true #COMMENT: ensure that we always redirect
   
