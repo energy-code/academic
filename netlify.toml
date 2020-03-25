@@ -26,7 +26,7 @@
     Content-Type = "application/rss+xml"
 
 [[redirects]]
-  from = "/"
+  from = "https://adamstein.netlify.com"
   to = "https://www.adamstein.info"
   status = 301
   force = true #COMMENT: ensure that we always redirect
