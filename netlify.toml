@@ -31,19 +31,19 @@
   status = 301
   force = true #COMMENT: ensure that we always redirect
   
-  [[redirects]]
+[[redirects]]
   from = "https://adamstein.netlify.com/*"
   to = "https://adamstein.info/:splat"
   status = 301
   force = true #COMMENT: ensure that we always redirect
   
-  [[redirects]]
+[[redirects]]
   from = "http://adamstein.netlify.com/*"
   to = "http://www.adamstein.info/:splat"
   status = 301
   force = true #COMMENT: ensure that we always redirect
   
-  [[redirects]]
+[[redirects]]
   from = "http://adamstein.netlify.com/*"
   to = "http://adamstein.info/:splat"
   status = 301
