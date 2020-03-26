@@ -14,7 +14,7 @@ featured: true
 
 # Introduction
 
-This guide was initially intended for those in academia (students, faculty, staff, and administrators), but can be useful for the millions of people across industries that have suddenly switched to remote work due to the current situation. The hope is that it will be a source of suggestions and insight to _'flatten the learning curve'_ of how to work remotely. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. Be supportive and flexible with each other and yourself.
+This guide was initially intended for those in academia (students, faculty, staff, and administrators), but can be useful for the millions of people across industries that have suddenly switched to remote work due to the current COVID-19 situation. The hope is that it will be a source of suggestions and insight to _'flatten the learning curve'_ of how to work remotely. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. Be supportive and flexible with each other and yourself.
 
 # Getting ready...
 
