@@ -14,9 +14,11 @@ tags:
 featured: true
 ---
 
-This guide was initially intended for those in academia (students, faculty, staff, and administrators), but can be useful for the millions that have suddenly switch to remote work. The hope is that it will be a source of suggestions and insight to _flatten the learning curve_ of how to work remotely. Everyone has unique circumstances that need to be addressed resulting in no perfect solution.  Be supportive and flexible with each other.
+Working at home with a family is a challenge even in the best of times. Most families can find some success working from home with enough effort and flexibility. The hope is that it will be a source of suggestions and insight to _flatten the learning curve_ of how to work remotely. This guide is an add-on to the [Working Remotely How-to Guide](https://adamstein.info/post/wfh_c19/), which should be read first. <!--more-->Everyone has unique circumstances that need to be addressed resulting in no perfect solution.  Be supportive and flexible with each other.
 
-{{< figure src="WorkingWkids_dist.png" lightbox="true" >}}
+While initially intended for those in academia (students, faculty, staff, and administrators), this guide can be useful for the millions of people across industries that have suddenly switched to remote work due to the current COVID-19 situation.  
+
+{{< figure src="WorkingWkids_dist.png" lightbox="true" title="There is a wide range of potential for success">}}
 
 # Flexibility, Resilience, and a Deep Breath
 
