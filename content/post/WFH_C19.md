@@ -11,7 +11,7 @@ tags:
   - "service"
 featured: true
 ---
-Successfully tansitioning to remote work needs to be well planned. Millions of people across many industries have suddenly been forced to switch to remote work due to the current COVID-19 situation, without much time to plan or resources. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. This guide offers suggestions and insight to _'flatten the learning curve'_ of how to work remotely. <!--more-->Be supportive and flexible with each other and yourself in this challenging time. This guide was initially intended for those in academia (students, faculty, staff, and administrators), but can be useful for almost anyone. 
+Successfully tansitioning to remote work needs to be well planned. Millions of people across many industries have suddenly been forced to switch to remote work due to the current COVID-19 situation, without much time to plan or resources. This guide offers suggestions and insight to _'flatten the learning curve'_ of how to work remotely by filling the gaps that other guides miss - no home office, a swift transition, family at home, and more. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. <!--more-->Be supportive and flexible with each other and yourself in this challenging time. This guide was initially intended for those in academia (students, faculty, staff, and administrators), but can be useful for almost anyone.  
 
 # Getting ready...
 
