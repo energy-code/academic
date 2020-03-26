@@ -1,7 +1,7 @@
 ---
 title: Working Remotely - a How-to Guide
 description: "Strategies and tips to get some work done at home"
-date: 2020-03-22
+date: 2020-03-24
 author: Adam Stein
 categories:
   - "WFH"
@@ -14,7 +14,7 @@ featured: true
 
 # Introduction
 
-This guide was initially intended for those in academia (students, faculty, staff, and administrators), but can be useful for the millions that have suddenly switch to remote work. The hope is that it will be a source of suggestions and insight to _flatten the learning curve_ of how to work remotely. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. Be supportive and flexible with each other and yourself.
+This guide was initially intended for those in academia (students, faculty, staff, and administrators), but can be useful for the millions of people across industries that have suddenly switched to remote work due to the current situation. The hope is that it will be a source of suggestions and insight to _'flatten the learning curve'_ of how to work remotely. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. Be supportive and flexible with each other and yourself.
 
 # Getting ready...
 
@@ -23,7 +23,7 @@ This guide was initially intended for those in academia (students, faculty, staf
 A defined workspace makes all the difference. Some of us have desks at home. Most people haven't needed a real home office and will have to repurpose another space as a work area. Sure, you can work from the couch with your laptop, but you won't be as productive. The obvious candidate is the dinner table, but many creative options exist as well such as a nightstand or ironing board. If you don’t have a separate room you can define a workspace by boxing it in with masking tape on the floor. If you must sit with a laptop on your lap consider getting a [padded lap desk](https://www.amazon.com/gp/product/B00HUEZ7W0/). For more inspiration on creative workspaces spurred by necessity just search Twitter.
 
 ## Ergonomics
-Ergonomics and layout are important. When possible, make your workspace as ergonomic as possible to avoid creating aches and pains you don’t already have. You can use this ergonomics tool to guide your new setup. 
+Ergonomics and [layout](https://zapier.com/blog/how-to-set-up-your-desk/) are important. When possible, make your workspace as ergonomic as possible to avoid creating aches and pains you don’t already have. You can use this [ergonomics tool](https://www.ergotron.com/tools/workspace-planner) to guide your new setup. 
 
 ## Lighting
 
@@ -100,7 +100,7 @@ For some people it is difficult to work without other people around, or just iso
 
 - Keep the TV on in the background on a non-distracting channel. (cooking shows, history, etc. NOT your favorite show)
 - Try virtual co-working as a way to stay connected like you are in the office. Use Zoom or Skype to set up a video call. Most people leave the call open in the background and check in occasionally.
-- You can schedule virtual co-working in many ways. The easiest way is to[create a shared calendar](https://support.google.com/a/answer/1626902?hl=en) and add your availability. Place the zoom meeting information in the calendar details. If you want to co-work just join the meeting on the calendar!
+- You can schedule virtual co-working in many ways. The easiest way is to [create a shared calendar](https://support.google.com/a/answer/1626902?hl=en) and add [your availability](https://support.google.com/calendar/answer/7638168). Place the zoom meeting information in the calendar details. If you want to co-work just join the meeting on the calendar!
 - If you want to find a convenient time for several specific people, [when2meet](https://www.when2meet.com/) is often useful.
 - If you can't schedule a co-working session when you want to, or prefer a random co-worker, try [Focusmate](https://www.focusmate.com/).
 
@@ -167,8 +167,9 @@ These tools may be helpful for keeping projects on track if you don&#39;t have a
 
 ### Mindmapping
 
-- [https://whimsical.com/](https://whimsical.com/)
-- [https://www.draw.io/](https://www.draw.io/)
+- [Whimsical](https://whimsical.com/)
+- [Draw.io](https://www.draw.io/)
+- [Lucid Charts](https://www.lucidchart.com/pages/usecase/education)
 
 ### Whiteboard
 
