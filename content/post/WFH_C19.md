@@ -102,7 +102,7 @@ For some people it is difficult to work without other people around, or just iso
 - If you can't schedule a co-working session when you want to, or prefer a random co-worker, try [Focusmate](https://www.focusmate.com/).
 
 ## With a family:
-When your coworkers are children it is a very different situation. If that describes you, read the *<span style="font-size:4em;">[How-to Work Remotely with a Partner or Family](https://adamstein.info/post/wfh_family/)*</span>.
+When your coworkers are children it is a very different situation. If that describes you, read the *[How-to Work Remotely with a Partner or Family](https://adamstein.info/post/wfh_family/)*.
 
 # Helping each other
 
@@ -112,7 +112,7 @@ In times of stress like this it can be hard for some people to reach out for hel
 
 # Tools and Resources
 
-This section provides a curated list of tools for working remotely. A more extensive and updated list of resources can be found here: <span style="font-size:4em;">[Working Remotely - Resource Guide](https://docs.google.com/document/d/1-75jR8WHM7_jJBulkSJ_tqca2BvKKfdHWALTEkGOYoE/edit?usp=sharing)</span>
+This section provides a curated list of tools for working remotely. A more extensive and updated list of resources can be found here: *[Working Remotely - Resource Guide](https://docs.google.com/document/d/1-75jR8WHM7_jJBulkSJ_tqca2BvKKfdHWALTEkGOYoE/edit?usp=sharing)*
 
 ## Wellness
 
