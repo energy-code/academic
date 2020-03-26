@@ -11,16 +11,15 @@ tags:
   - "service"
 featured: true
 ---
+Successfully tansitioning to remote work needs to be well planned. Millions of people across many industries have suddenly been forced to switch to remote work due to the current COVID-19 situation without time to plan. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. This guide offers suggestions and insight to _'flatten the learning curve'_ of how to work remotely. <!--more-->Be supportive and flexible with each other and yourself in this challenging time. 
 
-# Introduction
-
-This guide was initially intended for those in academia (students, faculty, staff, and administrators), but can be useful for the millions of people across industries that have suddenly switched to remote work due to the current COVID-19 situation. The hope is that it will be a source of suggestions and insight to _'flatten the learning curve'_ of how to work remotely. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. Be supportive and flexible with each other and yourself.
+This guide was initially intended for those in academia (students, faculty, staff, and administrators), but can be useful for almost anyone. 
 
 # Getting ready...
 
 ## Workspace
 
-A defined workspace makes all the difference. Some of us have desks at home. Most people haven't needed a real home office and will have to repurpose another space as a work area. Sure, you can work from the couch with your laptop, but you won't be as productive. The obvious candidate is the dinner table, but many creative options exist as well such as a nightstand or ironing board. If you don’t have a separate room you can define a workspace by boxing it in with masking tape on the floor. If you must sit with a laptop on your lap consider getting a [padded lap desk](https://www.amazon.com/gp/product/B00HUEZ7W0/). For more inspiration on creative workspaces spurred by necessity just search Twitter.
+A defined workspace makes all the difference. Some of us have desks at home. Most people haven't needed a real home office and will have to repurpose another space as a work area. Sure, you can work from the couch with your laptop, but you won't be as productive. The obvious candidate when a desk isn't available is the dinner table, but many creative options exist as well such as a nightstand or ironing board. If you don’t have a separate room you can define a workspace by boxing it in with masking tape on the floor. If you must sit with a laptop on your lap consider getting a [padded lap desk](https://www.amazon.com/gp/product/B00HUEZ7W0/). For more inspiration on creative workspaces spurred by necessity just search Twitter.
 
 ## Ergonomics
 Ergonomics and [layout](https://zapier.com/blog/how-to-set-up-your-desk/) are important. When possible, make your workspace as ergonomic as possible to avoid creating aches and pains you don’t already have. You can use this [ergonomics tool](https://www.ergotron.com/tools/workspace-planner) to guide your new setup. 
