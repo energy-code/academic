@@ -105,7 +105,7 @@ For some people it is difficult to work without other people around, or just iso
 - If you can't schedule a co-working session when you want to, or prefer a random co-worker, try [Focusmate](https://www.focusmate.com/).
 
 ## With a family:
-When your coworkers are children it is a very different situation. If that describes you, read the *[How-to Work Remotely with a Partner or Family](https://adamstein.netlify.com//post/wfh_family/)*.
+When your coworkers are children it is a very different situation. If that describes you, read the *[How-to Work Remotely with a Partner or Family](https://adamstein.info/post/wfh_family/)*.
 
 # Helping each other
 
