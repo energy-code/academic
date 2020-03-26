@@ -45,6 +45,7 @@ Make a physical barrier to keep your children out. The barrier needed and the po
 - If your only viable workspace is in the normal play area, consider moving the play area to another space. For example, if your only work surface is the coffee table in the living room try moving the kids play space to their bedroom for now.
 - Set up a temporary workspace in a multipurpose area like the  kitchen. Your work will have to be interrupted regularly, but if it is time to cook dinner you probably won&#39;t be working anyway
 - Make a workspace and block it off with 'stuff' as a buffer zone. This might be your only option if you need to stay within eyesight of your children.
+- If your child simply will not let you work if you are in the home, look for a multipurpose space that can be repurposed, such as a laundry room or a garage.
 - If you have an infant, baby-wearing and a standing desk is a good option
 
 ## Distractions
