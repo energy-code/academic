@@ -106,7 +106,7 @@ When your coworkers are children it is a very different situation. If that descr
 
 # Helping each other
 
-Suddenly going from 30 people in the office / classroom to just a few (or none) can be as difficult to adapt to as changing the workspace. The biggest complaint of employees that are shifted to working remotely has consistently been _loneliness._ Connect to others in a  Slack workspace or elsewhere.
+Suddenly going from 30 people in the office / classroom to just a few (or none) can be as difficult to adapt to as changing the workspace. The biggest complaint of employees that are shifted to working remotely has consistently been _loneliness._ Connect to others in a  Slack workspace or elsewhere. Astronauts are experts at working in confined spaces for long periods of time and have [offered some tips](https://www.nasa.gov/feature/an-astronaut-s-tips-for-living-in-space-or-anywhere) on how you can too.
 
 In times of stress like this it can be hard for some people to reach out for help even when they need it. Don't limit yourself to just your existing friends, and don't worry - others want (or need) to talk too. Someone is always awake; we are spread around the world and many just work late. 
 
