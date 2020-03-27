@@ -116,7 +116,7 @@ Most of you have seen a child in the classroom at some point. Maybe that child w
 
 ## Community
 
-Let's be blunt; kids are a lot of work. Connecting with other families to share tips and workspaces, decompress, or just to see other people is highly encouraged. You are not in this alone. There are many other parent communities on every social platform: join a couple. Talk to your neighbors. Make new friends. If you start to feel trapped in the house with them your mental wellbeing can suffer. 
+Let's be blunt; kids are a lot of work. Connecting with other families to share tips and workspaces, decompress, or just to see other people is highly encouraged. You are not in this alone. There are many parent communities on every social platform: join a couple. Talk to your neighbors. Make new friends. If you start to feel trapped in the house with them your mental wellbeing can suffer. 
 
 ## Kids Wellbeing
 
