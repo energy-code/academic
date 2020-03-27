@@ -11,7 +11,7 @@ tags:
   - "service"
 featured: true
 ---
-Successfully tansitioning to remote work needs to be well planned. Millions of people across many industries have suddenly been forced to switch to remote work due to the current COVID-19 situation, without much time to plan or resources. This guide offers suggestions and insight to _'flatten the learning curve'_ of how to work remotely by filling the gaps that other guides miss - no home office, a swift transition, family at home, and more. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. <!--more-->Be supportive and flexible with each other and yourself in this challenging time. This guide was initially intended for those in academia (students, faculty, staff, and administrators), but can be useful for almost anyone.  
+Successfully tansitioning to remote work needs to be well planned. Millions of people across many industries have suddenly been forced to switch to remote work due to the current COVID-19 situation, without much time to plan or resources. This guide offers suggestions and insight to 'flatten the _learning_ curve' of how to work remotely by filling the gaps that other guides miss - no home office, a swift transition, family at home, and more. Everyone has unique circumstances that need to be addressed resulting in no perfect solution. <!--more-->Be supportive and flexible with each other and yourself in this challenging time. This guide was initially intended for those in academia (students, faculty, staff, and administrators), but can be useful for almost anyone.  
 
 # Getting ready...
 
@@ -225,6 +225,7 @@ VERY useful for blocking out external noise without being distracting
 
 There are many resources online related to working from home or the road. Most do not match the current situation or the nuances of academic work. However, multiple perspectives are always useful. 
 
+- [Research Insiders](https://researchinsiders.blog/2020/03/18/transitioning-to-working-from-home)
 - [NPR](https://www.npr.org/2020/03/15/815549926/8-tips-to-make-working-from-home-work-for-you)
 - [The Verge](https://www.theverge.com/2020/3/11/21171349/remote-work-how-to-home-coronavirus-quarantine-productivity-tips)
 - [Wired](https://www.wired.com/story/how-to-work-from-home-without-losing-your-mind/)
