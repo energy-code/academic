@@ -68,7 +68,7 @@ This suggestion should already be second nature to those of us that write code. 
 
 ### Partners
 
-A partner that can take on the work of parenting for a period of time is the ultimate solution. See the scheduling section for more discussion.
+A partner that can take on the work of parenting for a period of time is the ultimate solution. See the scheduling section for more discussion (and give them extra appreciation).
 
 ## Video conferencing
 
@@ -114,6 +114,9 @@ Partners adjust their schedule so one is up before the children for alone time w
 
 Most of you have seen a child in the classroom at some point. Maybe that child was even yours. This is the virtual version with much less logistics involved. If your child will tolerate it, and your work will accommodate it, let your child sit on your lap and attend or teach an online class with you.
 
+### The Wizard (pay no attention to the man behind the curtain)
+Sometimes your child just will not leave you alone. In that case you might have to pretend to actually go to work. Some people have set up a make-shift office in their garage or even their car to escape the living area. This option is highly dependent on having a partner that can watch the take care of everything while you are out, access to a space outside the home (difficult right now, that’s why you are home in the first place!), and a climate where you can sit in an unheated/cooled garage or car for an extended period. 
+
 ## Community
 
 Let's be blunt; kids are a lot of work. Connecting with other families to share tips and workspaces, decompress, or just to see other people is highly encouraged. You are not in this alone. There are many parent communities on every social platform: join a couple. Talk to your neighbors. Make new friends. If you start to feel trapped in the house with them your mental wellbeing can suffer. 
@@ -151,14 +154,12 @@ Some age groups can entertain and learn on their own with a little supervision. 
 
 ### Virtual Field Trips and Videos
 
-- [Virtual](https://docs.google.com/document/d/1SvIdgTx9djKO6SjyvPDsoGlkgE3iExmi3qh2KRRku_w/preview)[Field](https://docs.google.com/document/d/1SvIdgTx9djKO6SjyvPDsoGlkgE3iExmi3qh2KRRku_w/preview)[trips](https://docs.google.com/document/d/1SvIdgTx9djKO6SjyvPDsoGlkgE3iExmi3qh2KRRku_w/preview)
+- [Virtual Field trips](https://docs.google.com/document/d/1SvIdgTx9djKO6SjyvPDsoGlkgE3iExmi3qh2KRRku_w/preview)
+- Animal Live Cameras - a huge list in the [Resources Guide](https://docs.google.com/document/d/1-75jR8WHM7_jJBulkSJ_tqca2BvKKfdHWALTEkGOYoE/edit?usp=sharing)!
 - [More](https://chesapeakefamily.com/fun/fun-stuff-to-do/9901-virtual-field-trips-kids-can-explore-the-world-from-home)[virtual](https://chesapeakefamily.com/fun/fun-stuff-to-do/9901-virtual-field-trips-kids-can-explore-the-world-from-home)[field](https://chesapeakefamily.com/fun/fun-stuff-to-do/9901-virtual-field-trips-kids-can-explore-the-world-from-home)[trips](https://chesapeakefamily.com/fun/fun-stuff-to-do/9901-virtual-field-trips-kids-can-explore-the-world-from-home)
 - [Idaho](https://www.navigatingnuclear.com/nuclear-reimagined-vft/)[National](https://www.navigatingnuclear.com/nuclear-reimagined-vft/)[Lab](https://www.navigatingnuclear.com/nuclear-reimagined-vft/) Virtual Field Trip
 - [Virtual](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours)[Museum](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours)[Tours](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours)
 - [Virtual](https://artsandculture.google.com/project/national-park-service)[National](https://artsandculture.google.com/project/national-park-service)[Parks](https://artsandculture.google.com/project/national-park-service)
-- [San](https://zoo.sandiegozoo.org/live-cams)[Diego](https://zoo.sandiegozoo.org/live-cams)[Zoo](https://zoo.sandiegozoo.org/live-cams) Live Cams
-- Houston Zoo: select the angle on the [giraffe](https://www.houstonzoo.org/explore/webcams/giraffe-feeding-platform/)[cam](https://www.houstonzoo.org/explore/webcams/giraffe-feeding-platform/)
-- Pittsburgh Zoo: pick the view on the [penguin](https://www.pittsburghzoo.org/penguin-webcam/)[cam](https://www.pittsburghzoo.org/penguin-webcam/)
 - [Met](https://www.metopera.org/)[Opera](https://www.metopera.org/)[Streaming](https://www.metopera.org/)[-](https://www.metopera.org/)[free](https://www.metopera.org/)[until](https://www.metopera.org/)[March](https://www.metopera.org/)[31](https://www.metopera.org/)
 - [Pittsburgh](https://www.nextpittsburgh.com/events/things-to-do-in-pittsburgh-this-month-when-all-the-events-are-canceled/)[art](https://www.nextpittsburgh.com/events/things-to-do-in-pittsburgh-this-month-when-all-the-events-are-canceled/)[and](https://www.nextpittsburgh.com/events/things-to-do-in-pittsburgh-this-month-when-all-the-events-are-canceled/)[museum](https://www.nextpittsburgh.com/events/things-to-do-in-pittsburgh-this-month-when-all-the-events-are-canceled/)[webcasts](https://www.nextpittsburgh.com/events/things-to-do-in-pittsburgh-this-month-when-all-the-events-are-canceled/)
 - [Skype](https://www.skypeascientist.com/for-families.html)[a](https://www.skypeascientist.com/for-families.html)[scientist](https://www.skypeascientist.com/for-families.html)
@@ -189,5 +190,7 @@ Some are free and others have free trials right now
 - [Math](https://www.weareteachers.com/best-math-websites/)[websites](https://www.weareteachers.com/best-math-websites/)
 - [Illustrative](https://www.illustrativemathematics.org/)[Mathematics](https://www.illustrativemathematics.org/)
 - [Zearn](https://about.zearn.org/distance-learning?utm_campaign=distance-learning&amp;utm_medium=native&amp;utm_source=homepage)- math K-5
+- [Printable activities](https://jackelynmenduz.wixsite.com/mividayourlife/post/free-printable-websites-keep-kids-distracted)
+- [Seaseme Street](https://www.sesamestreet.org/caring) - Free eBooks and videos
 
 _Before starting to work on a PhD in Engineering and Public Policy at Carnegie Mellon University, Adam gained almost a decade of remote working experience across several industries, three years of which included children. Since the initial version many others have generously contributed their thoughts and input to this guide._ 
