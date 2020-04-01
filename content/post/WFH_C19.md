@@ -50,7 +50,7 @@ This suggestion should already be second nature to those of us that write code. 
 
 # Keep a schedule
 
-Try to keep the same general schedule you had before changing to working remotely. Theoretically you have more time in the day because you don’t have to commute. The lack of commute is one of the best parts of working remotely and might be best used for the extra organization of mindfulness needed in the current situation. 
+Try to keep the same general schedule you had before changing to working remotely. Theoretically you have more time in the day because you don’t have to commute. The lack of commute is one of the best parts of working remotely and might be best used for the extra organization or mindfulness needed in the current situation. 
 
 If your scheduled work (courses, video calls, meetings) allows it you can adjust your schedule to when you do your best work. Take a moment for self reflection. Are you a morning person? A night owl? Do you need a break in the afternoon?
 
@@ -118,7 +118,7 @@ This section provides a curated list of tools for working remotely. A more exten
 
 Remember - the major problem for most remote workers is loneliness. Stay connected with others!
 
-- Zoom video call each other!
+- Video call a friend or someone you normally work with. 
 - [Headspace](https://work.headspace.com/cmu/join#CMU%20Headspace%20Landing%20Page) - Free meditation app for CMU students, faculty &amp; staff
 - [Ten Percent](https://www.tenpercent.com/coronavirussanityguide) -  (app available to us in the longer term [by request](https://docs.google.com/forms/d/e/1FAIpQLSd5SwLKoCog1oL1AJkWL-HH5P7p4KC21JDJJnELmnEyxg2-Jg/viewform))
 
