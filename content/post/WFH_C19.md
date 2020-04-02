@@ -52,11 +52,13 @@ This suggestion should already be second nature to those of us that write code. 
 
 Try to keep the same general schedule you had before changing to working remotely. Theoretically you have more time in the day because you don’t have to commute. The lack of commute is one of the best parts of working remotely and might be best used for the extra organization or mindfulness needed in the current situation. 
 
+Make a plan and write it down. Studies indicate that simply [writing down your intention to do something](https://jamesclear.com/implementation-intentions) makes you significantly more likely to actually do it. Don’t let yourself build up anxiety over checking everything off of the list. You are making a plan that will take time to achieve, not a rigid schedule. 
+
 If your scheduled work (courses, video calls, meetings) allows it you can adjust your schedule to when you do your best work. Take a moment for self reflection. Are you a morning person? A night owl? Do you need a break in the afternoon?
 
 Don't let everything blend together. Don't try to wash dishes while on Zoom for a course while making lunch. Breaks should be a part of your schedule. If you are doing academic work, chances are you need to do [deep work](https://doist.com/blog/deep-work/). Try a workflow method, such as those in the [workflow management](#workflow_management) section, to maintain focus and then define breaks.
 
-Add physical fitness into your routine as part of your regular schedule. While many people prefer to work out in the morning or after work in the evening, it can also be a much needed respite during the day.
+Add physical fitness into your routine as part of your regular schedule. While many people prefer to work out in the morning or after work in the evening, it can also be a much needed respite during the day. You can also do simple [stretches at your desk](You can also do simple stretches at your desk.).
 
 You might not be able to maintain your normal schedule due to workspace limits. See the co-working section for more tips.
 
