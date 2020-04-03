@@ -1,5 +1,5 @@
 ---
-title: Google Doc embed
+title: Working Remotely - Resources List
 description: "Resources for Working from Home"
 date: 2020-03-24
 author: Adam Stein
