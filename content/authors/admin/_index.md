@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate / Design Engineer / Consultant 
+role: PhD Candidate / Engineer / Consultant 
 
 # Organizations/Affiliations
 organizations:
