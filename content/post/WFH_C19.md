@@ -114,7 +114,7 @@ In times of stress like this it can be hard for some people to reach out for hel
 
 # Tools and Resources
 
-This section provides a curated list of tools for working remotely. A more extensive and updated list of resources can be found here: *[Working Remotely - Resource Guide](https://docs.google.com/document/d/1-75jR8WHM7_jJBulkSJ_tqca2BvKKfdHWALTEkGOYoE/edit?usp=sharing)*
+This section provides a curated list of tools for working remotely. A more extensive and updated list of resources can be found here: *[Working Remotely - Resource Guide](https://adamstein.info/post/WFH_Resources/)*
 
 ## Wellness
 
