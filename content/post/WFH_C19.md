@@ -38,7 +38,7 @@ Obviously you want to reduce distractions as much as possible. That will not alw
 
 ## Avoid distractions in the first place
 
-Obviously it is best if distractions never happen in the first place. Make it easier for others in your home to know when you are busy and cannot be interrupted: try simple visual cues to let them know now is not the time to disturb you. Some examples include different colored binders set up like table tents to indicate if you are available or not.
+Obviously it is best if distractions never happen in the first place. Make it easier for others in your home to know when you are busy and cannot be interrupted: try simple visual cues to let them know now is not the time to disturb you. Some examples include different colored binders set up like table tents to indicate if you are available or not. Do the same for your colleagues by [sharing your calendar](https://support.google.com/calendar/answer/37082?hl=en&authuser=1) and block off time when you are unavailable.  
 
 ## Keep a log book
 
