@@ -1,6 +1,6 @@
 ---
 title: Google Doc embed
-description: "testing google doc"
+description: "Resources for Working from Home"
 date: 2020-03-24
 author: Adam Stein
 categories:
