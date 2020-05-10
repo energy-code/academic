@@ -20,13 +20,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research includes energy systems, policy soultions, and deep uncertainty.
 
-reserach interests:
+interests:
+##Research interests 
 - Energy System Modeling
 - Advanced Nuclear Risk and Safety
 - Decision Making Under Uncertainty 
-
-consulting areas:
-- Prototypes
+##Consulting
+- Product & Prototype Design
 - Mechatronics
 - Advanced manufacturing
 
