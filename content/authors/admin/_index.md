@@ -84,6 +84,6 @@ user_groups:
 - Visitors
 ---
 
-Adam Stein is a PhD Candidate in Engineering and Public Policy at Carnegie Mellon University. His current research interests include energy system design, emergency planning and decision making near nuclear power plants, and developing risk and consequence models for advanced reactors. He brings more than a decade of R&D experience to help address interdicipliary problems. Outside or engineering and research, he is the Partner & Family Advocate for the Graduate Student Assembly at Carnegie Mellon University and Assistant Band Director for a local school district. 
+Adam Stein is a PhD Candidate in Engineering and Public Policy at Carnegie Mellon University. His current research interests include energy system design, emergency planning and decision making near nuclear power plants, and developing risk and consequence models for advanced reactors. He brings more than a decade of R&D experience to help address interdicipliary problems. Outside or engineering and research, he is the Partner & Family Advocate and VP of Campus Affairs for the Graduate Student Assembly at Carnegie Mellon University and Assistant Band Director for a local school district. 
 
 
